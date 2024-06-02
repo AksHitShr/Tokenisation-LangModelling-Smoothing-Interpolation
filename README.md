@@ -1,6 +1,6 @@
 # Introduction to NLP
 
-This assignment implements a text-tokenizer, which is used in the N-Gram language Model implemented, for given window (N) size. Also, language models using Good-Turing Smoothing and Interpolation techniques have been implemented. User can canculate perpexity score of input text and generate text for any of these models.
+This assignment implements a text-tokenizer, which is used in the N-Gram language Model implemented, for given window (N) size. Also, language models using Good-Turing Smoothing and Interpolation techniques have been implemented. User can canculate perpexity score of input text and generate text using any of these models.
 
 ### tokenizer.py
 #### Assumptions for tokenizer:
